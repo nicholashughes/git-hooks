@@ -16,7 +16,7 @@ A collection of git hooks.
 ## Activation
 To activate these git-hooks, copy them into:
 <br>
-`<YOUR_CHECKOUT_DIRECTORY>/.git/hooks`
+`<YOUR_LOCAL_PROJECT_DIRECTORY>/.git/hooks`
 
 Be sure to enable the correct permissions (they must be executable)
 <br>
